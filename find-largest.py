@@ -5,7 +5,7 @@ largest = arr[0]
 smallest = arr[0]
 second_largest = arr[0]
 
-for num in arr:
+for num in arr: 
     if num>largest:
         largest=num
 
