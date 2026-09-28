@@ -1,4 +1,4 @@
-let input = ("Enter Name, Class, RollNumber, Age: ");
+let input = prompt("Enter Name, Class, RollNumber, Age: ");
 
 let data = input.split(" ");
 
